@@ -1,8 +1,8 @@
 package fact_recur;
 import java.util.Scanner;
 
-//PROGRAMA PARA CALCULAR UN NUMERO FACTORIAL POR METODO RECURSIVO EN JAVA
-//PARA PARAR EL PROGRAMAR SE DEBE PONER UN 0, TE ARROJARA UN MENSAJE QUE INDICA QUE TU NUMERO ES INVALIDO
+//Este programa es para calcular un numero factorial por metodo recursivo en JAVA
+//PAra detener el programa se debe poner 0 ya que eso arroja un mensaje que indica que tu numero es invalido
 
 public class Fact_Recur {
 
