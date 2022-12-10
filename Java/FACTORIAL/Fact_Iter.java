@@ -1,8 +1,8 @@
 package fact_iter;
 import java.util.Scanner;
 
-//PROGRAMA PARA CALCULAR UN NUMERO FACTORIAL POR METODO ITERATIVO EN JAVA
-//PARA PARAR EL PROGRAMAR SE DEBE PONER UN 0, TE ARROJARA UN MENSAJE QUE INDICA QUE TU NUMERO ES INVALIDO
+//Este programa sirve para calcular el factorial de un numero por el metodo iterativo en JAVA
+//PAra detener el programa se debe poner 0, eso te arrojara un mensaje que indica que el numero es invalido
 
 public class Fact_Iter {
     
