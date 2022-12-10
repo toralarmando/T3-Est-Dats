@@ -1,5 +1,5 @@
 #OBTENER FACTORIAL EN MODO ITERATIVO EN Python
-n = 10
+n = 15
 factorial_iterativo = 1 
 for i in range(1,n+1):
     factorial_iterativo = factorial_iterativo * i
